@@ -18,8 +18,6 @@ Currently exploring and building in the world of:
 ---
 
 ### 📂 Featured Repos
-
-- [DSA Progress Tracker](link-to-dsa-repo) — Personal log solving Babbar’s DSA sheet
 - [California Housing ML project](https://github.com/aditya160206/regression-model-comparision) — Linear Regression vs Random Forest vs Decision Tree on California Housing dataset
   
 
