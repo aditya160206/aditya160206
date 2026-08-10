@@ -4,7 +4,7 @@ I’m a 2nd-year Electronics & Communication Engineering student specializing in
 Currently exploring and building in the domain of:
 
 -  **Machine Learning**: Supervised learning, projects with real-world datasets (working on Unsupervised next)
--  **Data Structures & Algorithms**: Solving Leetcode problems and other problems via [Love Babbar's DSA Sheet]
+-  **Data Structures & Algorithms**: Solving Leetcode problems 
 -  **Languages**: Python, C++
 -  **Tools**: Jupyter, Git, VS Code, scikit-learn, matplotlib, seaborn, pandas
 
@@ -14,13 +14,7 @@ Currently exploring and building in the domain of:
 
 - Build ML projects using real datasets
 - Apply for internships in ML & data-centric roles
-
----
-
-### 📂 Featured Repos
-- [California Housing ML project](https://github.com/aditya160206/regression-model-comparision) — Linear Regression vs Random Forest vs Decision Tree on California Housing dataset
   
-
 ---
 
 ### Contact info
